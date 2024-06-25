@@ -1,8 +1,8 @@
-# Python Challenge 1
+# Python Challenge 1: Food Truck Order System
 
 ## Project Overview
 
-This project is a simple order system for a variety food truck, created as part of a Python challenge. The application allows customers to view the menu, place orders, and receive a receipt with the total price of all items ordered.
+This project is a simple order system for a variety food truck. The application allows customers to view the menu, place orders, and receive a receipt with the total price of all items ordered. This project is created as part of a Python challenge assignment.
 
 ## Features
 
@@ -11,9 +11,17 @@ This project is a simple order system for a variety food truck, created as part 
 - Store orders in a list of dictionaries
 - Generate and display a formatted receipt with the total price
 
-## How to Use
+## Requirements
 
-1. Clone the repository to your local machine:
+- Python 3.x
+
+## Setup Instructions
+
+1. **Clone the Repository**:
+   ```sh
+   git clone https://github.com/yourusername/python-challenge-1.git
+   cd python-challenge-1
+
 
 ## Sample Interaction
 
