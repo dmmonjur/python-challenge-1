@@ -15,13 +15,6 @@ This project is a simple order system for a variety food truck. The application 
 
 - Python 3.x
 
-## Setup Instructions
-
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/yourusername/python-challenge-1.git
-   cd python-challenge-1
-
 
 ## Sample Interaction
 
